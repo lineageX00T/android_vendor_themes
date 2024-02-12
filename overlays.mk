@@ -139,3 +139,15 @@ PRODUCT_PACKAGES += \
     Retro \
     Narrow \
     Stockish
+
+# signal & wifi
+PRODUCT_PACKAGES += \
+    AuroraIconOverlays \
+    ForlornIconOverlays \
+    HollowIconOverlays \
+    IosIconOverlays \
+    PlummyIconOverlays \
+    SneakyIconOverlays \
+    StrokeIconOverlays \
+    XperiaIconOverlays \
+    ZigZagIconOverlays
