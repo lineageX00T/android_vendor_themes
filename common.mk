@@ -25,6 +25,6 @@ PRODUCT_PROPERTY_OVERRIDES += \
 
 # Sounds
 PRODUCT_PROPERTY_OVERRIDES += \
-    ro.config.ringtone=The_big_adventure.ogg \
-    ro.config.notification_sound=Popcorn.ogg \
+    ro.config.ringtone=NewSongette.ogg \
+    ro.config.notification_sound=no-pro.ogg \
     ro.config.alarm_alert=Bright_morning.ogg
